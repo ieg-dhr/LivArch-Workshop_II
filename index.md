@@ -60,10 +60,10 @@ Grounded in insights from close work with local people from affected by the ongo
 
 ## Concept and workshop organisation (in alphabetical order)
 
-[Iuliia Iashchenko](https://www.ieg-mainz.de/fellow/dr-iuliia-iashchenko/)  
-[Ian Marino (IEG)](https://www.ieg-mainz.de/en/person/marino/)  
+[Iuliia Iashchenko (IEG / Sapienza University of Rome)](https://www.ieg-mainz.de/fellow/dr-iuliia-iashchenko/)  
+[Ian Marino (IEG / Federal University of Juiz de Fora)](https://www.ieg-mainz.de/en/person/marino/)  
 [Thorsten Wübbena (IEG)](https://www.ieg-mainz.de/en/person/wuebbena/)  
-[Olesia Zvezdova](https://www.ieg-mainz.de/fellow/dr-olesia-zvezdova/)  
+[Olesia ZvezdovaIEG / Petro Mohyla Black Sea State University](https://www.ieg-mainz.de/fellow/dr-olesia-zvezdova/)  
 
 
 ## Contact
