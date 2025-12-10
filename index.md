@@ -4,7 +4,7 @@ layout: default
 
 # The Workshop
 
-The [Leibniz Institute of European History (IEG)](https://www.ieg-mainz.de/likecms.php?function=set_lang&lang=en), along with members of the research consortium “[LivArch - Documenting Russia's war against Ukraine: The challenges of living archives for historical knowledge production](https://www.ieg-mainz.de/---_site.site..ls_dir._nav.96_f.183_likecms.html)” are happy to introduce the 2nd IEG LivArch Workshop, which focuses on **Sensitivities, Trauma, and Sociability**.
+The [Leibniz Institute of European History (IEG)](https://www.ieg-mainz.de/en/), along with members of the research consortium “[LivArch - Documenting Russia's war against Ukraine: The challenges of living archives for historical knowledge production](https://www.ieg-mainz.de/en/research/research-projects/livarch-die-dokumentation-von-russlands-krieg-gegen-die-ukraine-die-herausforderungen-von-lebenden-archiven-fuer-die-historische-wissensproduktion/)” are happy to introduce the 2nd IEG LivArch Workshop, which focuses on **Sensitivities, Trauma, and Sociability**.
 
 The full-scale invasion of Ukraine in 2022 has triggered an unprecedented effort to digitally document the war, creating a complex ecosystem of archives that capture everything from battlefield evidence to the profound shifts in everyday life. This reality presents a critical ethical challenge: how to balance the urgent duty to document with the moral imperative to protect those involved from re-traumatization.
 
