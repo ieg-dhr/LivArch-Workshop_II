@@ -62,8 +62,9 @@ Grounded in insights from close work with local people from affected by the ongo
 
 [Iuliia Iashchenko](https://www.ieg-mainz.de/fellow/dr-iuliia-iashchenko/)  
 [Ian Marino (IEG)](https://www.ieg-mainz.de/en/person/marino/)  
-[Thorsten Wübbena (IEG)](https://www.ieg-mainz.de/institut/personen/wuebbena)  
+[Thorsten Wübbena (IEG)](https://www.ieg-mainz.de/en/person/wuebbena/)  
 [Olesia Zvezdova](https://www.ieg-mainz.de/fellow/dr-olesia-zvezdova/)  
+
 
 ## Contact
 
