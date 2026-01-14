@@ -16,7 +16,8 @@ Counting with specialists and representatives from leading Ukrainian archival in
 
 ### 10:00 – Onboarding
 #### Speakers:  
-<!--[Insert speakers here]-->  
+Thorsten Wübbena (IEG) - Welcoming words
+Olesia Zvezdova (IEG) - The workshop (Concept and schedule)
   
 ### 10:20-12:15 - Session 1: Sensitivities in the archive
 **Summary:** This session explores how sensitive topics permeate the collections of archives that have been created in the context of the war in Ukraine. The session not only looks at records that express forms of fear, uncertainty, grief, and trauma, but also sheds light on the very act of archiving as a way of dealing with such sensitivities in potentially healing and participatory ways.
@@ -25,7 +26,7 @@ Svitlana Osipchuk [(War Childhood Museum)](https://warchildhood.org/)
 Bohdan Shumylovych [(Diaries and Dreams of the War)](https://www.lvivcenter.org/en/researches/diaries-and-dreams-of-the-war-2/)
 
 #### Moderator:  
-Ian Marino [(IEG)](https://www.ieg-mainz.de/en/)
+Ian Marino (IEG)
 
 ### 12:15-13:15 – Lunch break
 
@@ -35,12 +36,12 @@ Ian Marino [(IEG)](https://www.ieg-mainz.de/en/)
 ·	The mental health of the population under conditions of constant information consumption
 ·	An information campaign of NGOs aimed at documenting the war crimes and countering fakes: participation of the population
 #### Speakers:  
-Olesia Zvezdova [(IEG)](https://www.ieg-mainz.de/en/)  
-Natalia Schevchenko [(National University of Life and Environmental Sciences of Ukraine, NGO Progresylni)](https://nubip.edu.ua/)  
-Baruch Schomron [(JGU)](https://www.uni-mainz.de/en/)  
+Olesia Zvezdova (IEG)  
+Natalia Schevchenko (National University of Life and Environmental Sciences of Ukraine, NGO Progresylni)  
+Baruch Schomron (Johannes Gutenberg University, Mainz)  
 
 #### Moderator:  
-Thorsten Wübbena [(IEG)](https://www.ieg-mainz.de/en/)
+Thorsten Wübbena (IEG)
 
 ### 14:45-15:00 – Coffee break
 
@@ -54,12 +55,13 @@ Bringing together specialists from major Ukrainian documentation projects, the w
 Grounded in insights from close work with local people from affected by the ongoing war cities, the workshop highlights how ethical documentation practices can serve as tools not only for preserving memory but also for supporting Ukraine’s long-term recovery, reconstruction, and healing.
 #### Speakers:  
 <!--[Insert speakers here]  --> 
+
 #### Moderator:  
-Iuliia Iashchenko [(IEG)](https://www.ieg-mainz.de/en/)
+Iuliia Iashchenko (IEG)
 
 ### 16:45-17:00 – Closing thoughts
 #### Speaker:  
-Ian Marino [(IEG)](https://www.ieg-mainz.de/en/)  
+Ian Marino (IEG)
 
 ---
 
