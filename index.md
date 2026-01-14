@@ -21,9 +21,11 @@ Counting with specialists and representatives from leading Ukrainian archival in
 ### 10:20-12:15 - Session 1: Sensitivities in the archive
 **Summary:** This session explores how sensitive topics permeate the collections of archives that have been created in the context of the war in Ukraine. The session not only looks at records that express forms of fear, uncertainty, grief, and trauma, but also sheds light on the very act of archiving as a way of dealing with such sensitivities in potentially healing and participatory ways.
 #### Speakers:    
-<!-- [Insert speakers here] -->
+Svitlana Osipchuk [(War Childhood Museum)](https://warchildhood.org/)
+Bohdan Shumylovych [(Diaries and Dreams of the War)](https://www.lvivcenter.org/en/researches/diaries-and-dreams-of-the-war-2/)
+
 #### Moderator:  
-<!-- [Insert moderator here]-->
+Ian Marino
 
 ### 12:15-13:15 – Lunch break
 
@@ -63,7 +65,7 @@ Grounded in insights from close work with local people from affected by the ongo
 **Iuliia Iashchenko** [IEG](https://www.ieg-mainz.de/fellow/dr-iuliia-iashchenko/)  
 **Ian Marino** [IEG](https://www.ieg-mainz.de/en/person/marino/) / [Federal University of Juiz de Fora](https://www2.ufjf.br/ppghistoria-en/ian-kisil-marino/)  
 **Thorsten Wübbena** [IEG](https://www.ieg-mainz.de/en/person/wuebbena/)  
-**Olesia ZvezdovaIEG** [IEG](https://www.ieg-mainz.de/fellow/dr-olesia-zvezdova/)  
+**Olesia Zvezdova** [IEG](https://www.ieg-mainz.de/fellow/dr-olesia-zvezdova/)  
 
 
 ## Contact
