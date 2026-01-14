@@ -16,8 +16,8 @@ Counting with specialists and representatives from leading Ukrainian archival in
 
 ### 10:00 – Onboarding
 #### Speakers:  
-<!--[Insert speakers here]-->
-
+<!--[Insert speakers here]-->  
+  
 ### 10:20-12:15 - Session 1: Sensitivities in the archive
 **Summary:** This session explores how sensitive topics permeate the collections of archives that have been created in the context of the war in Ukraine. The session not only looks at records that express forms of fear, uncertainty, grief, and trauma, but also sheds light on the very act of archiving as a way of dealing with such sensitivities in potentially healing and participatory ways.
 #### Speakers:    
@@ -35,9 +35,9 @@ Ian Marino [(IEG)](https://www.ieg-mainz.de/en/)
 ·	The mental health of the population under conditions of constant information consumption
 ·	An information campaign of NGOs aimed at documenting the war crimes and countering fakes: participation of the population
 #### Speakers:  
-Olesia Zvezdova [(IEG)](https://www.ieg-mainz.de/en/)
-Natalia Schevchenko [(National University of Life and Environmental Sciences of Ukraine, NGO Progresylni)](https://nubip.edu.ua/)
-Dr. Baruch Schomron [(JGU)](https://www.uni-mainz.de/en/)
+Olesia Zvezdova [(IEG)](https://www.ieg-mainz.de/en/)  
+Natalia Schevchenko [(National University of Life and Environmental Sciences of Ukraine, NGO Progresylni)](https://nubip.edu.ua/)  
+Dr. Baruch Schomron [(JGU)](https://www.uni-mainz.de/en/)  
 
 #### Moderator:  
 <!--[Insert moderator here]-->
