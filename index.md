@@ -40,7 +40,7 @@ Natalia Schevchenko [(National University of Life and Environmental Sciences of 
 Baruch Schomron [(JGU)](https://www.uni-mainz.de/en/)  
 
 #### Moderator:  
-<!--[Insert moderator here]-->
+Thorsten Wübbena [(IEG)](https://www.ieg-mainz.de/en/)
 
 ### 14:45-15:00 – Coffee break
 
@@ -59,7 +59,7 @@ Iuliia Iashchenko [(IEG)](https://www.ieg-mainz.de/en/)
 
 ### 16:45-17:00 – Closing thoughts
 #### Speaker:  
-<!--[Insert speaker here]-->
+Ian Marino [(IEG)](https://www.ieg-mainz.de/en/)  
 
 ---
 
