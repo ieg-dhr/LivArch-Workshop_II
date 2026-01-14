@@ -25,7 +25,7 @@ Svitlana Osipchuk [(War Childhood Museum)](https://warchildhood.org/)
 Bohdan Shumylovych [(Diaries and Dreams of the War)](https://www.lvivcenter.org/en/researches/diaries-and-dreams-of-the-war-2/)
 
 #### Moderator:  
-Ian Marino (IEG)
+Ian Marino [(IEG)](https://www.ieg-mainz.de/en/)
 
 ### 12:15-13:15 – Lunch break
 
@@ -35,7 +35,10 @@ Ian Marino (IEG)
 ·	The mental health of the population under conditions of constant information consumption
 ·	An information campaign of NGOs aimed at documenting the war crimes and countering fakes: participation of the population
 #### Speakers:  
-<!--[Insert speakers here]  --> 
+Olesia Zvezdova [(IEG)](https://www.ieg-mainz.de/en/)
+Natalia Schevchenko [(National University of Life and Environmental Sciences of Ukraine, NGO Progresylni)](https://nubip.edu.ua/)
+Dr. Baruch Schomron [(JGU)](https://www.uni-mainz.de/en/)
+
 #### Moderator:  
 <!--[Insert moderator here]-->
 
@@ -52,7 +55,7 @@ Grounded in insights from close work with local people from affected by the ongo
 #### Speakers:  
 <!--[Insert speakers here]  --> 
 #### Moderator:  
-<!--[Insert moderator here]-->
+Iuliia Iashchenko [IEG](https://www.ieg-mainz.de/fellow/dr-iuliia-iashchenko/)  
 
 ### 16:45-17:00 – Closing thoughts
 #### Speaker:  
