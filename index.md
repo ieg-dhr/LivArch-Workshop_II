@@ -68,7 +68,7 @@ Ian Marino (IEG)
 ## Concept and workshop organisation (in alphabetical order)
 
 **Iuliia Iashchenko** [IEG](https://www.ieg-mainz.de/fellow/dr-iuliia-iashchenko/)  
-**Ian Marino** [Federal University of Juiz de Fora](https://www2.ufjf.br/ppghistoria-en/ian-kisil-marino/) | [IEG](https://www.ieg-mainz.de/en/person/marino/) / 
+**Ian Marino** [Federal University of Juiz de Fora](https://www2.ufjf.br/ppghistoria-en/ian-kisil-marino/) | [IEG](https://www.ieg-mainz.de/en/person/marino/)  
 **Thorsten Wübbena** [IEG](https://www.ieg-mainz.de/en/person/wuebbena/)  
 **Olesia Zvezdova** [IEG](https://www.ieg-mainz.de/fellow/dr-olesia-zvezdova/)  
 
