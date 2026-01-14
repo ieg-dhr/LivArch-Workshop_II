@@ -37,7 +37,7 @@ Ian Marino [(IEG)](https://www.ieg-mainz.de/en/)
 #### Speakers:  
 Olesia Zvezdova [(IEG)](https://www.ieg-mainz.de/en/)  
 Natalia Schevchenko [(National University of Life and Environmental Sciences of Ukraine, NGO Progresylni)](https://nubip.edu.ua/)  
-Dr. Baruch Schomron [(JGU)](https://www.uni-mainz.de/en/)  
+Baruch Schomron [(JGU)](https://www.uni-mainz.de/en/)  
 
 #### Moderator:  
 <!--[Insert moderator here]-->
