@@ -55,7 +55,7 @@ Grounded in insights from close work with local people from affected by the ongo
 #### Speakers:  
 <!--[Insert speakers here]  --> 
 #### Moderator:  
-Iuliia Iashchenko [IEG](https://www.ieg-mainz.de/fellow/dr-iuliia-iashchenko/)  
+Iuliia Iashchenko [(IEG)](https://www.ieg-mainz.de/en/)
 
 ### 16:45-17:00 – Closing thoughts
 #### Speaker:  
