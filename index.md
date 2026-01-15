@@ -77,4 +77,17 @@ Ian Marino (IEG)
 
 ### <a href="mailto:digital@ieg-mainz.de">digital@ieg-mainz.de</a>
 ---
-![IEG_Logo](https://raw.githubusercontent.com/ieg-dhr/LivArch-Workshop/refs/heads/main/assets/images/ieg-logo2-small.png)
+<p align="left">
+  <a href="https://www.ieg-mainz.de/en">
+    <img src="assets/images/ieg-logo2-small.png"
+         alt="IEG Logo"
+         height="80">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www2.ufjf.br/histechlab/english-version/">
+    <img src="assets/images/histech-logo.png"
+         alt="HisTechLab Logo"
+         height="80">
+  </a>
+</p>
+
