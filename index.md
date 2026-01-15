@@ -79,14 +79,12 @@ Ian Marino (IEG)
 ---
 <div style="display: flex; align-items: flex-end;">
   <!-- IEG Logo -->
-  <a href="https://www.ieg-mainz.de">
+  <a href="https://www.ieg-mainz.de/en">
     <img src="assets/images/ieg-logo2-small.png" alt="IEG Logo" height="80">
   </a>
 
-  <!-- Abstand zwischen IEG-Logo und HisTechLab-Bereich -->
-  <span style="width: 40px;"></span>
+  <span style="width: 30px;"></span>
 
-  <!-- HisTechLab-Logo + Text darüber -->
   <div style="display: flex; flex-direction: column; align-items: center;">
     <span>In cooperation with</span>
     <a href="https://www2.ufjf.br/histechlab/english-version/">
