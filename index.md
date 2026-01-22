@@ -19,17 +19,17 @@ Counting with specialists and representatives from leading Ukrainian archival in
 
 ### 10:00 – Onboarding
 #### Speakers:  
-Thorsten Wübbena ([IEG](https://www.ieg-mainz.de/en/person/wuebbena/)) - Welcoming words  
-Olesia Zvezdova ([IEG](https://www.ieg-mainz.de/fellow/dr-olesia-zvezdova/)) - The workshop (Concept and schedule)  
+*Thorsten Wübbena ([IEG](https://www.ieg-mainz.de/en/person/wuebbena/))* - Welcoming words  
+*Olesia Zvezdova ([IEG](https://www.ieg-mainz.de/fellow/dr-olesia-zvezdova/))* - The workshop (Concept and schedule)  
   
 ### 10:20-12:00 - Session 1: Sensitivities in the archive
 **Summary:** This session explores how sensitive topics permeate the collections of archives that have been created in the context of the war in Ukraine. The session not only looks at records that express forms of fear, uncertainty, grief, and trauma, but also sheds light on the very act of archiving as a way of dealing with such sensitivities in potentially healing and participatory ways.
 #### Speakers:    
-Svitlana Osipchuk ([War Childhood Museum](https://warchildhood.org/)  
-Bohdan Shumylovych ([Diaries and Dreams of the War](https://www.lvivcenter.org/en/researches/diaries-and-dreams-of-the-war-2/))  
+*Svitlana Osipchuk* ([War Childhood Museum](https://warchildhood.org/)  
+*Bohdan Shumylovych* ([Diaries and Dreams of the War](https://www.lvivcenter.org/en/researches/diaries-and-dreams-of-the-war-2/))  
 
 #### Moderator:  
-Ian Marino ([UFJF](https://www2.ufjf.br/ppghistoria-en/ian-kisil-marino/) | [IEG](https://www.ieg-mainz.de/en/person/marino/))  
+*Ian Marino* ([UFJF](https://www2.ufjf.br/ppghistoria-en/ian-kisil-marino/) | [IEG](https://www.ieg-mainz.de/en/person/marino/))  
 
 ### 12:00-13:15 – Lunch break
 
@@ -39,12 +39,12 @@ Ian Marino ([UFJF](https://www2.ufjf.br/ppghistoria-en/ian-kisil-marino/) | [IEG
 ·	The mental health of the population under conditions of constant information consumption  
 ·	An information campaign of NGOs aimed at documenting the war crimes and countering fakes: participation of the population  
 #### Speakers:  
-N.N.  
-Natalia Schevchenko (National University of Life and Environmental Sciences of Ukraine, NGO Progresylni)  
-Baruch Schomron (Johannes Gutenberg University, Mainz)  
+*N.N.*  
+*Natalia Schevchenko* (National University of Life and Environmental Sciences of Ukraine, NGO Progresylni)  
+*Baruch Schomron* (Johannes Gutenberg University, Mainz)  
 
 #### Moderator:  
-Olesia Zvezdova ([IEG](https://www.ieg-mainz.de/fellow/dr-olesia-zvezdova/))
+*Olesia Zvezdova* ([IEG](https://www.ieg-mainz.de/fellow/dr-olesia-zvezdova/))
 
 ### 14:45-15:00 – Coffee break
 
@@ -57,16 +57,16 @@ Bringing together specialists from major Ukrainian documentation projects, the w
 ·	Legal and reconstruction perspectives: the role of digital archives in post-war justice, damage assessment, and evidence-based rebuilding, including the use of digital modeling and computational methods.  
 Grounded in insights from close work with local people from affected by the ongoing war cities, the workshop highlights how ethical documentation practices can serve as tools not only for preserving memory but also for supporting Ukraine’s long-term recovery, reconstruction, and healing.
 #### Speakers:  
-N.N.  
-Kristina Trykhlib (Jagiellonian University, Yaroslav Mudryi National Law University in Kharkiv)  
-Anatolii Iashchenko (Sapienza University of Rome)  
+*N.N.*  
+*Kristina Trykhlib* (Jagiellonian University, Yaroslav Mudryi National Law University in Kharkiv)  
+*Anatolii Iashchenko* (Sapienza University of Rome)  
 
 #### Moderator:  
-Iuliia Iashchenko ([IEG](https://www.ieg-mainz.de/fellow/dr-iuliia-iashchenko/))
+*Iuliia Iashchenko* ([IEG](https://www.ieg-mainz.de/fellow/dr-iuliia-iashchenko/))
 
 ### 16:30-17:00 – Closing thoughts
 #### Speaker:  
-Ian Marino ([UFJF](https://www2.ufjf.br/ppghistoria-en/ian-kisil-marino/) | [IEG](https://www.ieg-mainz.de/en/person/marino/))  
+*Ian Marino* ([UFJF](https://www2.ufjf.br/ppghistoria-en/ian-kisil-marino/) | [IEG](https://www.ieg-mainz.de/en/person/marino/))  
 
 ---
 
