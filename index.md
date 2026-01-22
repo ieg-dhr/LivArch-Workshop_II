@@ -47,11 +47,11 @@ Thorsten Wübbena (IEG)
 
 ### 15:00-16:30 – Session 3: Documenting Destruction and Resilience: Ethical War Archiving and Collective Memory in Ukraine
 **Summary:** The full-scale invasion of Ukraine has produced an extraordinary surge in efforts to digitally document the war, capturing both large-scale destruction and the everyday experiences of affected communities. This workshop examines how archival initiatives can responsibly preserve this material while supporting the resilience of those who create, curate, and contribute to these records.
-Bringing together specialists from major Ukrainian documentation projects, the workshop will focus on:
-·	Oral history and collective memory: recording trauma, preserving everyday experiences, and tracing emerging forms of community and national resilience;
-·	The destruction of academic and cultural infrastructure: challenges for researchers, archivists, and institutions working under war conditions;
-·	Urban destruction and digital documentation: mapping damage to infrastructures and cities, and understanding how such records shape collective memory and urban resilience;
-·	Legal and reconstruction perspectives: the role of digital archives in post-war justice, damage assessment, and evidence-based rebuilding, including the use of digital modeling and computational methods.
+Bringing together specialists from major Ukrainian documentation projects, the workshop will focus on:  
+·	Oral history and collective memory: recording trauma, preserving everyday experiences, and tracing emerging forms of community and national resilience;  
+·	The destruction of academic and cultural infrastructure: challenges for researchers, archivists, and institutions working under war conditions;  
+·	Urban destruction and digital documentation: mapping damage to infrastructures and cities, and understanding how such records shape collective memory and urban resilience;  
+·	Legal and reconstruction perspectives: the role of digital archives in post-war justice, damage assessment, and evidence-based rebuilding, including the use of digital modeling and computational methods.  
 Grounded in insights from close work with local people from affected by the ongoing war cities, the workshop highlights how ethical documentation practices can serve as tools not only for preserving memory but also for supporting Ukraine’s long-term recovery, reconstruction, and healing.
 #### Speakers:  
 <!--[Insert speakers here]  --> 
