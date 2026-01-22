@@ -61,7 +61,7 @@ Anatolii Iashchenko (Sapienza University of Rome)
 #### Moderator:  
 Iuliia Iashchenko (IEG)
 
-### 16:45-17:00 – Closing thoughts
+### 16:30-17:00 – Closing thoughts
 #### Speaker:  
 Ian Marino (IEG)
 
