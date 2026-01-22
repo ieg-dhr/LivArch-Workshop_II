@@ -36,12 +36,12 @@ Ian Marino (UFJF | IEG)
 ·	The mental health of the population under conditions of constant information consumption  
 ·	An information campaign of NGOs aimed at documenting the war crimes and countering fakes: participation of the population  
 #### Speakers:  
-Olesia Zvezdova (IEG)  
+N.N.
 Natalia Schevchenko (National University of Life and Environmental Sciences of Ukraine, NGO Progresylni)  
 Baruch Schomron (Johannes Gutenberg University, Mainz)  
 
 #### Moderator:  
-Thorsten Wübbena (IEG)
+Olesia Zvezdova (IEG)  
 
 ### 14:45-15:00 – Coffee break
 
