@@ -23,7 +23,7 @@ Olesia Zvezdova (IEG) - The workshop (Concept and schedule)
 **Summary:** This session explores how sensitive topics permeate the collections of archives that have been created in the context of the war in Ukraine. The session not only looks at records that express forms of fear, uncertainty, grief, and trauma, but also sheds light on the very act of archiving as a way of dealing with such sensitivities in potentially healing and participatory ways.
 #### Speakers:    
 Svitlana Osipchuk [(War Childhood Museum)](https://warchildhood.org/)  
-Bohdan Shumylovych [(Diaries and Dreams of the War)](https://www.lvivcenter.org/en/researches/diaries-and-dreams-of-the-war-2/)
+Bohdan Shumylovych [(Diaries and Dreams of the War)](https://www.lvivcenter.org/en/researches/diaries-and-dreams-of-the-war-2/)  
 
 #### Moderator:  
 Ian Marino (UFJF | IEG)
@@ -36,7 +36,7 @@ Ian Marino (UFJF | IEG)
 ·	The mental health of the population under conditions of constant information consumption  
 ·	An information campaign of NGOs aimed at documenting the war crimes and countering fakes: participation of the population  
 #### Speakers:  
-N.N.
+N.N.  
 Natalia Schevchenko (National University of Life and Environmental Sciences of Ukraine, NGO Progresylni)  
 Baruch Schomron (Johannes Gutenberg University, Mainz)  
 
@@ -54,9 +54,9 @@ Bringing together specialists from major Ukrainian documentation projects, the w
 ·	Legal and reconstruction perspectives: the role of digital archives in post-war justice, damage assessment, and evidence-based rebuilding, including the use of digital modeling and computational methods.  
 Grounded in insights from close work with local people from affected by the ongoing war cities, the workshop highlights how ethical documentation practices can serve as tools not only for preserving memory but also for supporting Ukraine’s long-term recovery, reconstruction, and healing.
 #### Speakers:  
-N.N.
-Kristina Trykhlib (Jagiellonian University, Yaroslav Mudryi National Law University in Kharkiv)
-Anatolii Iashchenko (Sapienza University of Rome)
+N.N.  
+Kristina Trykhlib (Jagiellonian University, Yaroslav Mudryi National Law University in Kharkiv)  
+Anatolii Iashchenko (Sapienza University of Rome)  
 
 #### Moderator:  
 Iuliia Iashchenko (IEG)
