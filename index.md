@@ -54,7 +54,9 @@ Bringing together specialists from major Ukrainian documentation projects, the w
 ·	Legal and reconstruction perspectives: the role of digital archives in post-war justice, damage assessment, and evidence-based rebuilding, including the use of digital modeling and computational methods.  
 Grounded in insights from close work with local people from affected by the ongoing war cities, the workshop highlights how ethical documentation practices can serve as tools not only for preserving memory but also for supporting Ukraine’s long-term recovery, reconstruction, and healing.
 #### Speakers:  
-<!--[Insert speakers here]  --> 
+N.N.
+Kristina Trykhlib (Jagiellonian University, Yaroslav Mudryi National Law University in Kharkiv)
+Anatolii Iashchenko (Sapienza University of Rome)
 
 #### Moderator:  
 Iuliia Iashchenko (IEG)
