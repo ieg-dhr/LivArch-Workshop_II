@@ -11,6 +11,9 @@ The full-scale invasion of Ukraine in 2022 has triggered an unprecedented effort
 The second edition of the IEG LivArch Workshop explores this challenge, weighing the dual responsibility archival projects have: a duty of care for staff, volunteers, and contributors – who may be handling traumatic content without professional training – and a duty to users and future scholarship. In this sense, some of the topics that the workshop discusses include: the role of social media in psychological and informational warfare; mental health of the population under conditions that combine persistent violence and destruction with constant information (and disinformation) consumption; forms of sociability and collaborative work in documenting such traumatic experiences; and the shape of collective memory in contexts that involve the interaction of multiple actors – such as scholars, activists, and digital media algorithms.
 
 Counting with specialists and representatives from leading Ukrainian archival initiatives, the workshop aims to make progress in providing answers on how to build and manage these vital digital repositories in an ethical, responsible, and sensitive way that actively fosters the resilience of all participants – understanding that such archives are not only records of violence but also promising sites of collective encounters and sources for understanding the war’s impact on everyday life and mentalities.
+
+If you are interested in participating in this online workshop, please send a message to the following address: # <a href="mailto:digital@ieg-mainz.de">digital@ieg-mainz.de</a>
+
 # Program
 <!-- ([Download as pdf](Insert link)) -->
 
