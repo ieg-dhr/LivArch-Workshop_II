@@ -31,10 +31,10 @@ Ian Marino (UFJF | IEG)
 ### 12:15-13:15 – Lunch break
 
 ### 13:15-14:45 – Session 2: Methods of Counteracting Disinformation in the Context of War
-**Summary:** Counteracting disinformation during wartime requires a comprehensive and multilayered approach. Key methods include the creation of transparent communication channels, timely dissemination of verified information, and cooperation between government institutions, media, and civil society.
-·	The role of social media in psychological and informational warfare
-·	The mental health of the population under conditions of constant information consumption
-·	An information campaign of NGOs aimed at documenting the war crimes and countering fakes: participation of the population
+**Summary:** Counteracting disinformation during wartime requires a comprehensive and multilayered approach. Key methods include the creation of transparent communication channels, timely dissemination of verified information, and cooperation between government institutions, media, and civil society.  
+·	The role of social media in psychological and informational warfare  
+·	The mental health of the population under conditions of constant information consumption  
+·	An information campaign of NGOs aimed at documenting the war crimes and countering fakes: participation of the population  
 #### Speakers:  
 Olesia Zvezdova (IEG)  
 Natalia Schevchenko (National University of Life and Environmental Sciences of Ukraine, NGO Progresylni)  
