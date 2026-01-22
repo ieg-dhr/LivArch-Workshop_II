@@ -12,7 +12,7 @@ The second edition of the IEG LivArch Workshop explores this challenge, weighing
 
 Counting with specialists and representatives from leading Ukrainian archival initiatives, the workshop aims to make progress in providing answers on how to build and manage these vital digital repositories in an ethical, responsible, and sensitive way that actively fosters the resilience of all participants – understanding that such archives are not only records of violence but also promising sites of collective encounters and sources for understanding the war’s impact on everyday life and mentalities.
 
-If you are interested in participating in this online workshop, please send a message to the following address: ### <a href="mailto:digital@ieg-mainz.de">digital@ieg-mainz.de</a>
+If you are interested in participating in this online workshop, please send a message to the following address: **<a href="mailto:digital@ieg-mainz.de">digital@ieg-mainz.de</a>**
 
 # Program
 <!-- ([Download as pdf](Insert link)) -->
