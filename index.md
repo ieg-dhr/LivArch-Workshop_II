@@ -24,9 +24,9 @@ Counting with specialists and representatives from leading Ukrainian archival in
   
 ### 10:20-12:00 - Session 1: Sensitivities in the archive
 **Summary:** This session explores how sensitive topics permeate the collections of archives created in the context of the war in Ukraine. The session not only looks at records that express forms of fear, uncertainty, grief, and trauma, but also sheds light on the very act of archiving as a way of dealing with such sensitivities in potentially healing and participatory ways. Speakers will explore:  
-    ·	Aspects of the documentation initiatives they have been leading  
-    ·	Their experience dealing with sensitive topics regarding traumatic events  
-    ·	Traces of subjectivity present within their collections  
+  ·	Aspects of the documentation initiatives they have been leading  
+  ·	Their experience dealing with sensitive topics regarding traumatic events  
+  ·	Traces of subjectivity present within their collections  
 
 #### Speakers:    
 *Svitlana Osipchuk* ([War Childhood Museum](https://warchildhood.org/)  
@@ -39,9 +39,9 @@ Counting with specialists and representatives from leading Ukrainian archival in
 
 ### 13:15-14:45 – Session 2: Methods of Counteracting Disinformation in the Context of War
 **Summary:** Counteracting disinformation during wartime requires a comprehensive and multilayered approach. Key methods include the creation of transparent communication channels, timely dissemination of verified information, and cooperation between government institutions, media, and civil society.  
-·	The role of social media in psychological and informational warfare  
-·	The mental health of the population under conditions of constant information consumption  
-·	An information campaign of NGOs aimed at documenting the war crimes and countering fakes: participation of the population  
+  ·	The role of social media in psychological and informational warfare  
+  ·	The mental health of the population under conditions of constant information consumption  
+  ·	An information campaign of NGOs aimed at documenting the war crimes and countering fakes: participation of the population  
 #### Speakers:  
 *N.N.*  
 *Natalia Schevchenko* (National University of Life and Environmental Sciences of Ukraine)  
@@ -55,10 +55,10 @@ Counting with specialists and representatives from leading Ukrainian archival in
 ### 15:00-16:30 – Session 3: Documenting Destruction and Resilience: Ethical War Archiving and Collective Memory in Ukraine
 **Summary:** The full-scale invasion of Ukraine has produced an extraordinary surge in efforts to digitally document the war, capturing both large-scale destruction and the everyday experiences of affected communities. This workshop examines how archival initiatives can responsibly preserve this material while supporting the resilience of those who create, curate, and contribute to these records.
 Bringing together specialists from major Ukrainian documentation projects, the workshop will focus on:  
-·	Oral history and collective memory: recording trauma, preserving everyday experiences, and tracing emerging forms of community and national resilience;  
-·	The destruction of academic and cultural infrastructure: challenges for researchers, archivists, and institutions working under war conditions;  
-·	Urban destruction and digital documentation: mapping damage to infrastructures and cities, and understanding how such records shape collective memory and urban resilience;  
-·	Legal and reconstruction perspectives: the role of digital archives in post-war justice, damage assessment, and evidence-based rebuilding, including the use of digital modeling and computational methods.  
+  ·	Oral history and collective memory: recording trauma, preserving everyday experiences, and tracing emerging forms of community and national resilience;  
+  ·	The destruction of academic and cultural infrastructure: challenges for researchers, archivists, and institutions working under war conditions;  
+  ·	Urban destruction and digital documentation: mapping damage to infrastructures and cities, and understanding how such records shape collective memory and urban resilience;  
+  ·	Legal and reconstruction perspectives: the role of digital archives in post-war justice, damage assessment, and evidence-based rebuilding, including the use of digital modeling and computational methods.  
 Grounded in insights from close work with local people from affected by the ongoing war cities, the workshop highlights how ethical documentation practices can serve as tools not only for preserving memory but also for supporting Ukraine’s long-term recovery, reconstruction, and healing.
 #### Speakers:  
 *N.N.*  
