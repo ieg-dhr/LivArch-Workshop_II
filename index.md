@@ -53,16 +53,15 @@ Counting with specialists and representatives from leading Ukrainian archival in
 ### 14:45-15:00 – Coffee break
 
 ### 15:00-16:30 – Session 3: Documenting Destruction and Resilience: Ethical War Archiving and Collective Memory in Ukraine
-**Summary:** The full-scale invasion of Ukraine has produced an extraordinary surge in efforts to digitally document the war, capturing both large-scale destruction and the everyday experiences of affected communities. This workshop examines how archival initiatives can responsibly preserve this material while supporting the resilience of those who create, curate, and contribute to these records.
-Bringing together specialists from major Ukrainian documentation projects, the workshop will focus on:  
-  ·	Oral history and collective memory: recording trauma, preserving everyday experiences, and tracing emerging forms of community and national resilience;  
-  ·	The destruction of academic and cultural infrastructure: challenges for researchers, archivists, and institutions working under war conditions;  
-  ·	Urban destruction and digital documentation: mapping damage to infrastructures and cities, and understanding how such records shape collective memory and urban resilience;  
-  ·	Legal and reconstruction perspectives: the role of digital archives in post-war justice, damage assessment, and evidence-based rebuilding, including the use of digital modeling and computational methods.  
-Grounded in insights from close work with local people from affected by the ongoing war cities, the workshop highlights how ethical documentation practices can serve as tools not only for preserving memory but also for supporting Ukraine’s long-term recovery, reconstruction, and healing.
+**Summary:** The full-scale invasion of Ukraine has generated extensive efforts to digitally document the war, capturing both large-scale destruction and everyday human experiences. This workshop examines how such documentation can be preserved responsibly while supporting the resilience of those who create, curate, and contribute to these records.
+Bringing together specialists from Ukrainian documentation initiatives, the workshop will focus on:  
+· Collective experiences of war and community resilience: documenting trauma, everyday life, oral histories, and the impact of war on academic and cultural communities;  
+· Urban destruction and digital documentation: mapping damage to cities and infrastructure, and understanding how such records shape collective memory and urban resilience;  
+· Legal and reconstruction perspectives: the role of digital archives in post-war justice, damage assessment, and evidence-based rebuilding, including digital modeling and computational methods.  
+
 #### Speakers:  
-*N.N.*  
 *Kristina Trykhlib* (Jagiellonian University, Yaroslav Mudryi National Law University in Kharkiv)  
+*Kostiantyn Fedorenko* ()
 *Anatolii Iashchenko* (Sapienza University of Rome)  
 
 #### Moderator:  
