@@ -62,7 +62,7 @@ Bringing together specialists from Ukrainian documentation initiatives, the work
 #### Speakers:  
 *Kristina Trykhlib* (Jagiellonian University, Yaroslav Mudryi National Law University in Kharkiv)  
 *Kostiantyn Fedorenko*  
-*Anatolii Iashchenko* (Sapienza University of Rome)  
+*Anatolii Iashchenko* ([Sapienza University of Rome](https://phd.uniroma1.it/web/ANATOLII-IASHCHENKO_nP2097593_EN.aspx))  
 
 #### Moderator:  
 *Iuliia Iashchenko* ([IEG](https://www.ieg-mainz.de/fellow/dr-iuliia-iashchenko/))
