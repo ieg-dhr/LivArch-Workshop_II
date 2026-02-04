@@ -60,7 +60,7 @@ Bringing together specialists from Ukrainian documentation initiatives, the work
 · Legal and reconstruction perspectives: the role of digital archives in post-war justice, damage assessment, and evidence-based rebuilding, including digital modeling and computational methods.  
 
 #### Speakers:  
-*Kristina Trykhlib* (Jagiellonian University, Yaroslav Mudryi National Law University in Kharkiv)  
+*Kristina Trykhlib* (Yaroslav Mudryi National Law University in Kharkiv (Ukraine), [MSCA4Ukraine Fellow at the Centre for Interdisciplinary Constitutional Studies at Jagiellonian University (Poland)](https://cisk.wpia.uj.edu.pl/en_GB/kristina-trykhlib))    
 *Kostiantyn Fedorenko*  
 *Anatolii Iashchenko* ([Sapienza University of Rome](https://phd.uniroma1.it/web/ANATOLII-IASHCHENKO_nP2097593_EN.aspx))  
 
