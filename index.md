@@ -61,7 +61,7 @@ Bringing together specialists from Ukrainian documentation initiatives, the work
 
 #### Speakers:  
 *Kristina Trykhlib* (Yaroslav Mudryi National Law University in Kharkiv (Ukraine), [MSCA4Ukraine Fellow at the Centre for Interdisciplinary Constitutional Studies at Jagiellonian University (Poland)](https://cisk.wpia.uj.edu.pl/en_GB/kristina-trykhlib))    
-*Kostiantyn Fedorenko*  
+*Kostiantyn Fedorenko*  (Affiliate researcher at [Zentrum für Osteuropa- und Internationale Studien (ZOiS Berlin)](https://www.zois-berlin.de/ueber-uns/mitarbeiterinnen/kostiantyn-fedorenko))  
 *Anatolii Iashchenko* ([Sapienza University of Rome](https://phd.uniroma1.it/web/ANATOLII-IASHCHENKO_nP2097593_EN.aspx))  
 
 #### Moderator:  
