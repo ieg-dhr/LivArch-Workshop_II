@@ -45,7 +45,7 @@ Counting with specialists and representatives from leading Ukrainian archival in
 #### Speakers:  
 *Olesia Zvezdova* ([IEG](https://www.ieg-mainz.de/fellow/dr-olesia-zvezdova/))  
 *Natalia Schevchenko* ([National University of Life and Environmental Sciences of Ukraine](https://nubip.edu.ua/en/node/164653), NGO Progresylni)  
-*Baruch Schomron* ([Johannes Gutenberg University, Mainz](https://www.zis.uni-mainz.de/gaeste/fellows/baruch-shomron/))  
+*Baruch Schomron* ([Johannes Gutenberg University, Mainz](https://ipcs.ifp.uni-mainz.de/baruch-shomron/))  
 
 #### Moderator:  
 *Thorsten Wübbena* ([IEG](https://www.ieg-mainz.de/en/person/wuebbena/))
