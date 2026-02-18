@@ -44,7 +44,7 @@ Counting with specialists and representatives from leading Ukrainian archival in
   ·	An information campaign of NGOs aimed at documenting the war crimes and countering fakes: participation of the population  
 #### Speakers:  
 *Olesia Zvezdova* ([IEG](https://www.ieg-mainz.de/fellow/dr-olesia-zvezdova/))  
-*Natalia Schevchenko* ([National University of Life and Environmental Sciences of Ukraine](https://nubip.edu.ua/en/node/164653), NGO Progresylni)  
+*Nataliia Schevchenko* ([National University of Life and Environmental Sciences of Ukraine](https://nubip.edu.ua/en/node/164653), NGO Progresylni)  
 *Baruch Schomron* ([Johannes Gutenberg University, Mainz](https://ipcs.ifp.uni-mainz.de/baruch-shomron/))  
 
 #### Moderator:  
