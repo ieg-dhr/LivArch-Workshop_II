@@ -29,7 +29,7 @@ Counting with specialists and representatives from leading Ukrainian archival in
   ·	Traces of subjectivity present within their collections  
 
 #### Speakers:    
-*Svitlana Osipchuk* ([War Childhood Museum](https://warchildhood.org/)  
+*Svitlana Osipchuk* ([War Childhood Museum](https://warchildhood.org/))  
 *Bohdan Shumylovych* ([Diaries and Dreams of the War](https://www.lvivcenter.org/en/researches/diaries-and-dreams-of-the-war-2/))  
 
 #### Moderator:  
